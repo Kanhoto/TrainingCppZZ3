@@ -1,5 +1,5 @@
 # Énoncé
-⚠️ DISCLAIMER : ( Pas de moi, repris à partir de ce dépot github : https://gitlab.com/vietdamien/training )
+⚠️ DISCLAIMER : ( Pas de moi, repris à partir de ce dépot gitlab : https://gitlab.com/vietdamien/training )
 
 **Essayez d'éviter un maximum les copies.**
 
